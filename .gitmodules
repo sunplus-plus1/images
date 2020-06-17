@@ -1,0 +1,24 @@
+[submodule "bpi-f2s/kernel5.4"]
+	path = bpi-f2s/kernel5.4
+	url = https://github.com/sunplus-plus1/kernel54_bpi_f2s_img.git
+[submodule "bpi-f2s/kernel4.19"]
+	path = bpi-f2s/kernel4.19
+	url = https://github.com/sunplus-plus1/kernel419_bpi_f2s_img.git
+[submodule "bpi-f2p/kernel4.19"]
+	path = bpi-f2p/kernel4.19
+	url = https://github.com/sunplus-plus1/kernel419_bpi_f2p_img.git
+[submodule "bpi-f2p/kernel5.4"]
+	path = bpi-f2p/kernel5.4
+	url = https://github.com/sunplus-plus1/kernel54_bpi_f2p_img.git
+[submodule "demov3/kernel4.19"]
+	path = demov3/kernel4.19
+	url = https://github.com/sunplus-plus1/kernel419_demov3_img.git
+[submodule "demov3/kernel5.4"]
+	path = demov3/kernel5.4
+	url = https://github.com/sunplus-plus1/kernel54_demov3_img.git
+[submodule "demov1v2/kernel4.19"]
+	path = demov1v2/kernel4.19
+	url = https://github.com/sunplus-plus1/kernel419_demov1v2_img.git
+[submodule "demov1v2/kernel5.4"]
+	path = demov1v2/kernel5.4
+	url = https://github.com/sunplus-plus1/kernel54_demov1v2_img.git
